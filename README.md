@@ -4,7 +4,7 @@
 
 ### Quick Start
 
-1. Download all files in this repo to your local disk
+1. Download all files in this repo to your local disk via Code -> Download zip or ```git clone https://github.com/andrewlferguson/IMSI_LSS.git```
 
 2. Direct your web browser to [https://colab.research.google.com/](https://colab.research.google.com/)
 
