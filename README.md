@@ -4,17 +4,20 @@
 
 ### Quick Start
 
-1. Download all files in this repo to your local disk via Code -> Download zip or ```git clone https://github.com/andrewlferguson/IMSI_LSS.git```
+1. Download all files in this repo to your local disk via \
+Code -> Download zip (GUI option) \
+or \
+```git clone https://github.com/andrewlferguson/IMSI_LSS.git``` (CLI option)
 
-2. Direct your web browser to [https://colab.research.google.com/](https://colab.research.google.com/)
+3. Direct your web browser to [https://colab.research.google.com/](https://colab.research.google.com/)
 
-3. Sign in with your Google account
+4. Sign in with your Google account
 
-4. Navigate to File -> Upload notebook, and upload ADP_backbone_LSS.ipynb
+5. Navigate to File -> Upload notebook, and upload ADP_backbone_LSS.ipynb
 
-5. Within active colab notebook, navigate to Edit -> Notebook settings, and select a GPU hardware accelerator
+6. Within active colab notebook, navigate to Edit -> Notebook settings, and select a GPU hardware accelerator
 
-6. Exwecute notebook cell by cell (click "play" button to left of each cell or Shift+Enter)
+7. Execute notebook cell by cell (click "play" button to left of each cell or ```Shift+Enter```)
  
 ### References
 
