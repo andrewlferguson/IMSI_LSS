@@ -35,7 +35,8 @@ Paper:
   number={35},
   pages={9459--9467},
   year={2020},
-  publisher={Royal Society of Chemistry}
+  publisher={Royal Society of Chemistry},
+  doi={https://doi.org/10.1039/D0SC03635H}
 }
 ```
 
@@ -48,6 +49,7 @@ Tutorial:
   volume={128},
   pages={10299--10317},
   year={2024},
-  publisher={American Chemical Society}
+  publisher={American Chemical Society},
+  doi={https://doi.org/10.1021/acs.jpca.4c05389}
 }
 ```
