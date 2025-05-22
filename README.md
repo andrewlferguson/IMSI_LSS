@@ -38,3 +38,16 @@ Paper:
   publisher={Royal Society of Chemistry}
 }
 ```
+
+Tutorial:
+```
+@article{jones2024tutorial,
+  title={Tutorial on Molecular Latent Space Simulators (LSSs): Spatially and temporally continuous data-driven surrogate dynamical models of molecular systems},
+  author={Jones, Michael S and Shmilovich, Kirill and Ferguson, Andrew L},
+  journal={Journal of Physical Chemistry A},
+  volume={128},
+  pages={10299--10317},
+  year={2024},
+  publisher={American Chemical Society}
+}
+```
